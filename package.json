@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ankita45033-creator.github.io/project7",
+  "homepage": "https://ankita45033-creator.github.io/Project7",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
